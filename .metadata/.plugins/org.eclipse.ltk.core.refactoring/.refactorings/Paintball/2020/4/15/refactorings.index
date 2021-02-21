@@ -1,0 +1,6 @@
+1586055710794	Rename local variable 'gameLayer'
+1586055719304	Rename local variable 'gameLayer'
+1586112661360	Rename local variable 'luminance'
+1586130614245	Rename field 'toDeathScreenFlag'
+1586130622706	Rename method 'setToDeathScreenFlag'
+1586132440573	Rename type 'DeathLayer'
